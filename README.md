@@ -1,3 +1,4 @@
+javascript:f_SET_PREV_COUNTER_BGC('003399',30);
 
 <link href="https://code.visualstudio.com/blogs/2022/11/28/vscode-sandbox"/>
 <link rel="related" href="https://code.visualstudio.com/opengraphimg/opengraph-blog.png"/>
