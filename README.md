@@ -1,3 +1,4 @@
+
 <link href="https://code.visualstudio.com/blogs/2022/11/28/vscode-sandbox"/>
 <link rel="related" href="https://code.visualstudio.com/opengraphimg/opengraph-blog.png"/>
 <updated>2022-11-28T00:00:00.000Z</updated>
@@ -25,7 +26,8 @@
 <entry>
 <title>Custom Dev Container Features</title>
 <link href="https://code.visualstudio.com/blogs/2022/09/15/dev-container-features"/>
-<link rel="related" href="https://code.visualstudio.com/opengraphimg/opengraph-blog.png"/>
+<link rel="r![Uploading 1000002523.gif…]()
+elated" href="https://code.visualstudio.com/opengraphimg/opengraph-blog.png"/>
 <updated>2022-09-15T00:00:00.000Z</updated>
 <id>https://code.visualstudio.com/blogs/2022/09/15/dev-container-features</id>
 <category term="blog"/>
